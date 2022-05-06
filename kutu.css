@@ -1,0 +1,112 @@
+#kutu_alani {
+    background-color: #edecec;
+    height: 590px;
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#kutu1 {
+    height: 500px;
+    width: 258px;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    float: left;
+    padding: 10px;
+    border: 1px dashed #CCC;
+}
+
+#kutu2 {
+    float: left;
+    height: 500x;
+    width: 258px;
+    margin-top: 5px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    border: 1px dashed #CCC;
+}
+
+#kutu3 {
+    float: right;
+    height: 500px;
+    width: 258px;
+    margin-top: 5px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    padding: 10px;
+    border: 1px dashed #CCC;
+}
+
+#sosyalkutu1 {
+    height: 300px;
+    width: 258px;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    float: left;
+    padding: 10px;
+    border: 1px dashed #CCC;
+}
+
+#sosyalkutu2 {
+    float: left;
+    height: 320x;
+    width: 258px;
+    margin-top: 5px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    border: 1px dashed #CCC;
+}
+
+#sosyalkutu3 {
+    float: right;
+    height: 300px;
+    width: 258px;
+    margin-top: 5px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    padding: 10px;
+    border: 1px dashed #CCC;
+}
+
+#yuvarlakkutu {
+    width: 150px;
+    /*Kutumuzun genişliğini 100 piksel ayarladık.*/
+    height: 150px;
+    /*Kutumuzun yüksekliğini 100 piksel ayarladık.*/
+    background-color: red;
+    /*Kutumuzun rengini kırmızı yaptık*/
+    border-radius: 150px;
+    /*kenarlıklarını ayarlayarak yuvarlak görüntü verdim*/
+}
+
+#yuvarlakkutu2 {
+    width: 150px;
+    /*Kutumuzun genişliğini 100 piksel ayarladık.*/
+    height: 150px;
+    /*Kutumuzun yüksekliğini 100 piksel ayarladık.*/
+    background-color: lawngreen;
+    /*Kutumuzun rengini kırmızı yaptık*/
+    border-radius: 150px;
+    /*kenarlıklarını ayarlayarak yuvarlak görüntü verdim*/
+}
+
+#yuvarlakkutu3 {
+    width: 150px;
+    /*Kutumuzun genişliğini 50 piksel ayarladık.*/
+    height: 150px;
+    /*Kutumuzun yüksekliğini 50 piksel ayarladık.*/
+    background-color: lightpink;
+    /*Kutumuzun rengini kırmızı yaptık*/
+    border-radius: 150px;
+    /*kenarlıklarını ayarlayarak yuvarlak görüntü verdim*/
+}
